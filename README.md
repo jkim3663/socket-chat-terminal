@@ -9,9 +9,9 @@ This program is motivated from Georgia Tech's CS3251 - Computer Networking and i
 - argparse
 - sys
 ## Concepts
-- multiple TCP connection
+- persistent TCP connection
 - multiple clients and a single server
-- text parsing
+- terminal argument parsing
 ## Functionalities 
 - the client takes the server's IP address and listening port, the username, and the password
 - the server takes its listening port and the password.
